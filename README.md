@@ -1,1 +1,1 @@
-# relicmtb.github.io
+# github.io
